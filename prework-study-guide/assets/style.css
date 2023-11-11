@@ -3,11 +3,10 @@
     padding: 0;
 }
 
-header,
-footer {
+bodyg {
     width: 100%;
     height: 120px;
-    background-color: blue;
+    background-color: black;
     color: white;
 }
 
